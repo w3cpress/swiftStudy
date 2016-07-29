@@ -1,0 +1,449 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7E2802BB1D347D27005C3BD9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E2802BA1D347D27005C3BD9 /* AppDelegate.swift */; };
+		7E2802BD1D347D27005C3BD9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E2802BC1D347D27005C3BD9 /* ViewController.swift */; };
+		7E2802C01D347D27005C3BD9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E2802BE1D347D27005C3BD9 /* Main.storyboard */; };
+		7E2802C21D347D27005C3BD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E2802C11D347D27005C3BD9 /* Assets.xcassets */; };
+		7E2802C51D347D27005C3BD9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E2802C31D347D27005C3BD9 /* LaunchScreen.storyboard */; };
+		7E2803051D347DF8005C3BD9 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E2803041D347DF8005C3BD9 /* libz.tbd */; settings = {ATTRIBUTES = (Required, ); }; };
+		7E2803181D34954A005C3BD9 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E2803141D34954A005C3BD9 /* logo.png */; };
+		7E2803191D34954A005C3BD9 /* test_password.zip in Resources */ = {isa = PBXBuildFile; fileRef = 7E2803151D34954A005C3BD9 /* test_password.zip */; };
+		7E28031A1D34954A005C3BD9 /* test.zip in Resources */ = {isa = PBXBuildFile; fileRef = 7E2803161D34954A005C3BD9 /* test.zip */; };
+		7E28031B1D34954A005C3BD9 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E2803171D34954A005C3BD9 /* icon.png */; };
+		7E9CE0061D34979000F2F25B /* aescrypt.c in Sources */ = {isa = PBXBuildFile; fileRef = 7E9CDFE31D34979000F2F25B /* aescrypt.c */; };
+		7E9CE0071D34979000F2F25B /* aeskey.c in Sources */ = {isa = PBXBuildFile; fileRef = 7E9CDFE41D34979000F2F25B /* aeskey.c */; };
+		7E9CE0081D34979000F2F25B /* aestab.c in Sources */ = {isa = PBXBuildFile; fileRef = 7E9CDFE61D34979000F2F25B /* aestab.c */; };
+		7E9CE0091D34979000F2F25B /* entropy.c in Sources */ = {isa = PBXBuildFile; fileRef = 7E9CDFEA1D34979000F2F25B /* entropy.c */; };
+		7E9CE00A1D34979000F2F25B /* fileenc.c in Sources */ = {isa = PBXBuildFile; fileRef = 7E9CDFEC1D34979000F2F25B /* fileenc.c */; };
+		7E9CE00B1D34979000F2F25B /* hmac.c in Sources */ = {isa = PBXBuildFile; fileRef = 7E9CDFEE1D34979000F2F25B /* hmac.c */; };
+		7E9CE00C1D34979000F2F25B /* prng.c in Sources */ = {isa = PBXBuildFile; fileRef = 7E9CDFF01D34979000F2F25B /* prng.c */; };
+		7E9CE00D1D34979000F2F25B /* pwd2key.c in Sources */ = {isa = PBXBuildFile; fileRef = 7E9CDFF21D34979000F2F25B /* pwd2key.c */; };
+		7E9CE00E1D34979000F2F25B /* sha1.c in Sources */ = {isa = PBXBuildFile; fileRef = 7E9CDFF41D34979000F2F25B /* sha1.c */; };
+		7E9CE00F1D34979000F2F25B /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E9CDFF71D34979000F2F25B /* Info.plist */; };
+		7E9CE0101D34979000F2F25B /* ioapi.c in Sources */ = {isa = PBXBuildFile; fileRef = 7E9CDFFA1D34979000F2F25B /* ioapi.c */; };
+		7E9CE0111D34979000F2F25B /* mztools.c in Sources */ = {isa = PBXBuildFile; fileRef = 7E9CDFFC1D34979000F2F25B /* mztools.c */; };
+		7E9CE0121D34979000F2F25B /* unzip.c in Sources */ = {isa = PBXBuildFile; fileRef = 7E9CDFFE1D34979000F2F25B /* unzip.c */; };
+		7E9CE0131D34979000F2F25B /* zip.c in Sources */ = {isa = PBXBuildFile; fileRef = 7E9CE0001D34979000F2F25B /* zip.c */; };
+		7E9CE0141D34979000F2F25B /* SSZipArchive+Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9CE0021D34979000F2F25B /* SSZipArchive+Swift.swift */; };
+		7E9CE0151D34979000F2F25B /* SSZipArchive.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E9CE0041D34979000F2F25B /* SSZipArchive.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		7E2802B71D347D27005C3BD9 /* swift38.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swift38.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7E2802BA1D347D27005C3BD9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		7E2802BC1D347D27005C3BD9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7E2802BF1D347D27005C3BD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		7E2802C11D347D27005C3BD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7E2802C41D347D27005C3BD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7E2802C61D347D27005C3BD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7E2803041D347DF8005C3BD9 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		7E28030F1D349132005C3BD9 /* bridge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bridge.h; sourceTree = "<group>"; };
+		7E2803141D34954A005C3BD9 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		7E2803151D34954A005C3BD9 /* test_password.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = test_password.zip; sourceTree = "<group>"; };
+		7E2803161D34954A005C3BD9 /* test.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = test.zip; sourceTree = "<group>"; };
+		7E2803171D34954A005C3BD9 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		7E9CDFE11D34979000F2F25B /* aes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aes.h; sourceTree = "<group>"; };
+		7E9CDFE21D34979000F2F25B /* aes_via_ace.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aes_via_ace.h; sourceTree = "<group>"; };
+		7E9CDFE31D34979000F2F25B /* aescrypt.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = aescrypt.c; sourceTree = "<group>"; };
+		7E9CDFE41D34979000F2F25B /* aeskey.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = aeskey.c; sourceTree = "<group>"; };
+		7E9CDFE51D34979000F2F25B /* aesopt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aesopt.h; sourceTree = "<group>"; };
+		7E9CDFE61D34979000F2F25B /* aestab.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = aestab.c; sourceTree = "<group>"; };
+		7E9CDFE71D34979000F2F25B /* aestab.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aestab.h; sourceTree = "<group>"; };
+		7E9CDFE81D34979000F2F25B /* brg_endian.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = brg_endian.h; sourceTree = "<group>"; };
+		7E9CDFE91D34979000F2F25B /* brg_types.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = brg_types.h; sourceTree = "<group>"; };
+		7E9CDFEA1D34979000F2F25B /* entropy.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = entropy.c; sourceTree = "<group>"; };
+		7E9CDFEB1D34979000F2F25B /* entropy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = entropy.h; sourceTree = "<group>"; };
+		7E9CDFEC1D34979000F2F25B /* fileenc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = fileenc.c; sourceTree = "<group>"; };
+		7E9CDFED1D34979000F2F25B /* fileenc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fileenc.h; sourceTree = "<group>"; };
+		7E9CDFEE1D34979000F2F25B /* hmac.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = hmac.c; sourceTree = "<group>"; };
+		7E9CDFEF1D34979000F2F25B /* hmac.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hmac.h; sourceTree = "<group>"; };
+		7E9CDFF01D34979000F2F25B /* prng.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = prng.c; sourceTree = "<group>"; };
+		7E9CDFF11D34979000F2F25B /* prng.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = prng.h; sourceTree = "<group>"; };
+		7E9CDFF21D34979000F2F25B /* pwd2key.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pwd2key.c; sourceTree = "<group>"; };
+		7E9CDFF31D34979000F2F25B /* pwd2key.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pwd2key.h; sourceTree = "<group>"; };
+		7E9CDFF41D34979000F2F25B /* sha1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = sha1.c; sourceTree = "<group>"; };
+		7E9CDFF51D34979000F2F25B /* sha1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sha1.h; sourceTree = "<group>"; };
+		7E9CDFF61D34979000F2F25B /* Common.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Common.h; sourceTree = "<group>"; };
+		7E9CDFF71D34979000F2F25B /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7E9CDFF91D34979000F2F25B /* crypt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypt.h; sourceTree = "<group>"; };
+		7E9CDFFA1D34979000F2F25B /* ioapi.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ioapi.c; sourceTree = "<group>"; };
+		7E9CDFFB1D34979000F2F25B /* ioapi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ioapi.h; sourceTree = "<group>"; };
+		7E9CDFFC1D34979000F2F25B /* mztools.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = mztools.c; sourceTree = "<group>"; };
+		7E9CDFFD1D34979000F2F25B /* mztools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mztools.h; sourceTree = "<group>"; };
+		7E9CDFFE1D34979000F2F25B /* unzip.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = unzip.c; sourceTree = "<group>"; };
+		7E9CDFFF1D34979000F2F25B /* unzip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = unzip.h; sourceTree = "<group>"; };
+		7E9CE0001D34979000F2F25B /* zip.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = zip.c; sourceTree = "<group>"; };
+		7E9CE0011D34979000F2F25B /* zip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = zip.h; sourceTree = "<group>"; };
+		7E9CE0021D34979000F2F25B /* SSZipArchive+Swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SSZipArchive+Swift.swift"; sourceTree = "<group>"; };
+		7E9CE0031D34979000F2F25B /* SSZipArchive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSZipArchive.h; sourceTree = "<group>"; };
+		7E9CE0041D34979000F2F25B /* SSZipArchive.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSZipArchive.m; sourceTree = "<group>"; };
+		7E9CE0051D34979000F2F25B /* ZipArchive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZipArchive.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7E2802B41D347D27005C3BD9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7E2803051D347DF8005C3BD9 /* libz.tbd in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7E2802AE1D347D27005C3BD9 = {
+			isa = PBXGroup;
+			children = (
+				7E28030F1D349132005C3BD9 /* bridge.h */,
+				7E2803041D347DF8005C3BD9 /* libz.tbd */,
+				7E2802B91D347D27005C3BD9 /* swift38 */,
+				7E2802B81D347D27005C3BD9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7E2802B81D347D27005C3BD9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7E2802B71D347D27005C3BD9 /* swift38.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7E2802B91D347D27005C3BD9 /* swift38 */ = {
+			isa = PBXGroup;
+			children = (
+				7E9CDFDF1D34979000F2F25B /* SSZipArchive */,
+				7E2803141D34954A005C3BD9 /* logo.png */,
+				7E2803151D34954A005C3BD9 /* test_password.zip */,
+				7E2803161D34954A005C3BD9 /* test.zip */,
+				7E2803171D34954A005C3BD9 /* icon.png */,
+				7E2802BA1D347D27005C3BD9 /* AppDelegate.swift */,
+				7E2802BC1D347D27005C3BD9 /* ViewController.swift */,
+				7E2802BE1D347D27005C3BD9 /* Main.storyboard */,
+				7E2802C11D347D27005C3BD9 /* Assets.xcassets */,
+				7E2802C31D347D27005C3BD9 /* LaunchScreen.storyboard */,
+				7E2802C61D347D27005C3BD9 /* Info.plist */,
+			);
+			path = swift38;
+			sourceTree = "<group>";
+		};
+		7E9CDFDF1D34979000F2F25B /* SSZipArchive */ = {
+			isa = PBXGroup;
+			children = (
+				7E9CDFE01D34979000F2F25B /* aes */,
+				7E9CDFF61D34979000F2F25B /* Common.h */,
+				7E9CDFF71D34979000F2F25B /* Info.plist */,
+				7E9CDFF81D34979000F2F25B /* minizip */,
+				7E9CE0021D34979000F2F25B /* SSZipArchive+Swift.swift */,
+				7E9CE0031D34979000F2F25B /* SSZipArchive.h */,
+				7E9CE0041D34979000F2F25B /* SSZipArchive.m */,
+				7E9CE0051D34979000F2F25B /* ZipArchive.h */,
+			);
+			path = SSZipArchive;
+			sourceTree = "<group>";
+		};
+		7E9CDFE01D34979000F2F25B /* aes */ = {
+			isa = PBXGroup;
+			children = (
+				7E9CDFE11D34979000F2F25B /* aes.h */,
+				7E9CDFE21D34979000F2F25B /* aes_via_ace.h */,
+				7E9CDFE31D34979000F2F25B /* aescrypt.c */,
+				7E9CDFE41D34979000F2F25B /* aeskey.c */,
+				7E9CDFE51D34979000F2F25B /* aesopt.h */,
+				7E9CDFE61D34979000F2F25B /* aestab.c */,
+				7E9CDFE71D34979000F2F25B /* aestab.h */,
+				7E9CDFE81D34979000F2F25B /* brg_endian.h */,
+				7E9CDFE91D34979000F2F25B /* brg_types.h */,
+				7E9CDFEA1D34979000F2F25B /* entropy.c */,
+				7E9CDFEB1D34979000F2F25B /* entropy.h */,
+				7E9CDFEC1D34979000F2F25B /* fileenc.c */,
+				7E9CDFED1D34979000F2F25B /* fileenc.h */,
+				7E9CDFEE1D34979000F2F25B /* hmac.c */,
+				7E9CDFEF1D34979000F2F25B /* hmac.h */,
+				7E9CDFF01D34979000F2F25B /* prng.c */,
+				7E9CDFF11D34979000F2F25B /* prng.h */,
+				7E9CDFF21D34979000F2F25B /* pwd2key.c */,
+				7E9CDFF31D34979000F2F25B /* pwd2key.h */,
+				7E9CDFF41D34979000F2F25B /* sha1.c */,
+				7E9CDFF51D34979000F2F25B /* sha1.h */,
+			);
+			path = aes;
+			sourceTree = "<group>";
+		};
+		7E9CDFF81D34979000F2F25B /* minizip */ = {
+			isa = PBXGroup;
+			children = (
+				7E9CDFF91D34979000F2F25B /* crypt.h */,
+				7E9CDFFA1D34979000F2F25B /* ioapi.c */,
+				7E9CDFFB1D34979000F2F25B /* ioapi.h */,
+				7E9CDFFC1D34979000F2F25B /* mztools.c */,
+				7E9CDFFD1D34979000F2F25B /* mztools.h */,
+				7E9CDFFE1D34979000F2F25B /* unzip.c */,
+				7E9CDFFF1D34979000F2F25B /* unzip.h */,
+				7E9CE0001D34979000F2F25B /* zip.c */,
+				7E9CE0011D34979000F2F25B /* zip.h */,
+			);
+			path = minizip;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7E2802B61D347D27005C3BD9 /* swift38 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7E2802C91D347D27005C3BD9 /* Build configuration list for PBXNativeTarget "swift38" */;
+			buildPhases = (
+				7E2802B31D347D27005C3BD9 /* Sources */,
+				7E2802B41D347D27005C3BD9 /* Frameworks */,
+				7E2802B51D347D27005C3BD9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = swift38;
+			productName = swift38;
+			productReference = 7E2802B71D347D27005C3BD9 /* swift38.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7E2802AF1D347D27005C3BD9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = jollycorp;
+				TargetAttributes = {
+					7E2802B61D347D27005C3BD9 = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = MKJ55A75EX;
+					};
+				};
+			};
+			buildConfigurationList = 7E2802B21D347D27005C3BD9 /* Build configuration list for PBXProject "swift38" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7E2802AE1D347D27005C3BD9;
+			productRefGroup = 7E2802B81D347D27005C3BD9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7E2802B61D347D27005C3BD9 /* swift38 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7E2802B51D347D27005C3BD9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7E9CE00F1D34979000F2F25B /* Info.plist in Resources */,
+				7E2803191D34954A005C3BD9 /* test_password.zip in Resources */,
+				7E2803181D34954A005C3BD9 /* logo.png in Resources */,
+				7E28031A1D34954A005C3BD9 /* test.zip in Resources */,
+				7E28031B1D34954A005C3BD9 /* icon.png in Resources */,
+				7E2802C51D347D27005C3BD9 /* LaunchScreen.storyboard in Resources */,
+				7E2802C21D347D27005C3BD9 /* Assets.xcassets in Resources */,
+				7E2802C01D347D27005C3BD9 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7E2802B31D347D27005C3BD9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7E9CE00C1D34979000F2F25B /* prng.c in Sources */,
+				7E9CE00B1D34979000F2F25B /* hmac.c in Sources */,
+				7E2802BD1D347D27005C3BD9 /* ViewController.swift in Sources */,
+				7E9CE0151D34979000F2F25B /* SSZipArchive.m in Sources */,
+				7E9CE0131D34979000F2F25B /* zip.c in Sources */,
+				7E9CE0081D34979000F2F25B /* aestab.c in Sources */,
+				7E9CE0061D34979000F2F25B /* aescrypt.c in Sources */,
+				7E9CE0141D34979000F2F25B /* SSZipArchive+Swift.swift in Sources */,
+				7E2802BB1D347D27005C3BD9 /* AppDelegate.swift in Sources */,
+				7E9CE0101D34979000F2F25B /* ioapi.c in Sources */,
+				7E9CE00E1D34979000F2F25B /* sha1.c in Sources */,
+				7E9CE0121D34979000F2F25B /* unzip.c in Sources */,
+				7E9CE00D1D34979000F2F25B /* pwd2key.c in Sources */,
+				7E9CE0071D34979000F2F25B /* aeskey.c in Sources */,
+				7E9CE00A1D34979000F2F25B /* fileenc.c in Sources */,
+				7E9CE0091D34979000F2F25B /* entropy.c in Sources */,
+				7E9CE0111D34979000F2F25B /* mztools.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		7E2802BE1D347D27005C3BD9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7E2802BF1D347D27005C3BD9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		7E2802C31D347D27005C3BD9 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7E2802C41D347D27005C3BD9 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7E2802C71D347D27005C3BD9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		7E2802C81D347D27005C3BD9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7E2802CA1D347D27005C3BD9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = swift38/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				New_Setting = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.jollycorp.swift38;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = bridge.h;
+			};
+			name = Debug;
+		};
+		7E2802CB1D347D27005C3BD9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = swift38/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				New_Setting = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.jollycorp.swift38;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = bridge.h;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7E2802B21D347D27005C3BD9 /* Build configuration list for PBXProject "swift38" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7E2802C71D347D27005C3BD9 /* Debug */,
+				7E2802C81D347D27005C3BD9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7E2802C91D347D27005C3BD9 /* Build configuration list for PBXNativeTarget "swift38" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7E2802CA1D347D27005C3BD9 /* Debug */,
+				7E2802CB1D347D27005C3BD9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7E2802AF1D347D27005C3BD9 /* Project object */;
+}

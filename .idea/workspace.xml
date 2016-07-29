@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="718767c9-9209-4b7e-a275-f00df68f94e1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift37/swift37.xcodeproj/project.xcworkspace/xcuserdata/huangjian.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38.xcodeproj/project.xcworkspace/xcuserdata/huangjian.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/test.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/test_password.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift39/swift39.xcodeproj/project.xcworkspace/xcuserdata/huangjian.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift40/swift40.xcodeproj/project.xcworkspace/xcuserdata/huangjian.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift41/swift41.xcodeproj/project.xcworkspace/xcuserdata/huangjian.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift41/swift41/ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift42/swift42.xcodeproj/project.xcworkspace/xcuserdata/huangjian.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/swiftStudy.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift37/swift37.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift37/swift37.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift37/swift37.xcodeproj/xcuserdata/huangjian.xcuserdatad/xcschemes/swift37.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift37/swift37.xcodeproj/xcuserdata/huangjian.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift37/swift37/AppDelegate.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift37/swift37/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift37/swift37/Base.lproj/LaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift37/swift37/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift37/swift37/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift37/swift37/ViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/bridge.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38.xcodeproj/xcuserdata/huangjian.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38.xcodeproj/xcuserdata/huangjian.xcuserdatad/xcschemes/swift38.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38.xcodeproj/xcuserdata/huangjian.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/AppDelegate.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/Base.lproj/LaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/Common.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/SSZipArchive+Swift.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/SSZipArchive.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/SSZipArchive.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/ZipArchive.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/aes.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/aes_via_ace.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/aescrypt.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/aeskey.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/aesopt.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/aestab.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/aestab.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/brg_endian.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/brg_types.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/entropy.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/entropy.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/fileenc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/fileenc.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/hmac.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/hmac.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/prng.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/prng.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/pwd2key.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/pwd2key.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/sha1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/aes/sha1.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/minizip/crypt.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/minizip/ioapi.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/minizip/ioapi.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/minizip/mztools.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/minizip/mztools.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/minizip/unzip.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/minizip/unzip.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/minizip/zip.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/SSZipArchive/minizip/zip.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift38/swift38/ViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift39/swift39.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift39/swift39.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift39/swift39.xcodeproj/xcuserdata/huangjian.xcuserdatad/xcschemes/swift39.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift39/swift39.xcodeproj/xcuserdata/huangjian.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift39/swift39/AppDelegate.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift39/swift39/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift39/swift39/Base.lproj/LaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift39/swift39/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift39/swift39/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift39/swift39/ViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift40/swift40.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift40/swift40.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift40/swift40.xcodeproj/xcuserdata/huangjian.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift40/swift40.xcodeproj/xcuserdata/huangjian.xcuserdatad/xcschemes/swift40.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift40/swift40.xcodeproj/xcuserdata/huangjian.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift40/swift40/AppDelegate.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift40/swift40/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift40/swift40/Base.lproj/LaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift40/swift40/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift40/swift40/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift40/swift40/ViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift40/swift40/ViewControllerExtensions.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift41/swift41.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift41/swift41.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift41/swift41.xcodeproj/xcuserdata/huangjian.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift41/swift41.xcodeproj/xcuserdata/huangjian.xcuserdatad/xcschemes/swift41.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift41/swift41.xcodeproj/xcuserdata/huangjian.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift41/swift41/AppDelegate.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift41/swift41/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift41/swift41/Base.lproj/LaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift41/swift41/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift41/swift41/DetailViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift41/swift41/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift41/swift41/ViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift41/swift41/ViewControllerExtensions.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift42/swift42.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift42/swift42.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift42/swift42.xcodeproj/xcuserdata/huangjian.xcuserdatad/xcschemes/swift42.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift42/swift42.xcodeproj/xcuserdata/huangjian.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift42/swift42/AppDelegate.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift42/swift42/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift42/swift42/Base.lproj/LaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift42/swift42/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift42/swift42/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift42/swift42/ViewController.swift" />
+    </list>
+    <ignored path="swiftStudy.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="swiftStudy" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="26" />
+    <option name="y" value="23" />
+    <option name="width" value="1239" />
+    <option name="height" value="711" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swiftStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swiftStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swiftStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="718767c9-9209-4b7e-a275-f00df68f94e1" name="Default" comment="" />
+      <created>1469774656184</created>
+      <option name="number" value="Default" />
+      <updated>1469774656184</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="26" y="23" width="1239" height="711" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24958949" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/swift39" />
+      <path value="$PROJECT_DIR$/swift41" />
+      <path value="$PROJECT_DIR$/swift38" />
+      <path value="$PROJECT_DIR$/swift42" />
+      <path value="$PROJECT_DIR$/swift37" />
+      <path value="$PROJECT_DIR$/swift40" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
