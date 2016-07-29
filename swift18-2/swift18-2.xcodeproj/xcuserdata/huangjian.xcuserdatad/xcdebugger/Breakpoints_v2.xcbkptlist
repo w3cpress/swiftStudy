@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swift18-2/ViewController.swift"
+            timestampString = "488192025.610811"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "keyboardWillChange(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swift18_2.ViewController.keyboardWillChange (__ObjC.NSNotification) -&gt; ()"
+                  moduleName = "swift18-2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huangjian/www/my/IOS/AlanLearn/swift18-2/swift18-2/ViewController.swift"
+                  timestampString = "488192149.060603"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2604">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swift18_2.ViewController.(keyboardWillChange (__ObjC.NSNotification) -&gt; ()).(closure #1)"
+                  moduleName = "swift18-2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huangjian/www/my/IOS/AlanLearn/swift18-2/swift18-2/ViewController.swift"
+                  timestampString = "488192149.060844"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swift18-2/ViewController.swift"
+            timestampString = "488191262.745566"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swift18_2.ViewController.bottomConstraint.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSLayoutConstraint&gt;"
+                  moduleName = "swift18-2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huangjian/www/my/IOS/AlanLearn/swift18-2/swift18-2/ViewController.swift"
+                  timestampString = "488191348.793876"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swift18_2.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; swift18_2.ViewController"
+                  moduleName = "swift18-2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huangjian/www/my/IOS/AlanLearn/swift18-2/swift18-2/ViewController.swift"
+                  timestampString = "488191348.79396"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swift18_2.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;swift18_2.ViewController&gt;"
+                  moduleName = "swift18-2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huangjian/www/my/IOS/AlanLearn/swift18-2/swift18-2/ViewController.swift"
+                  timestampString = "488191348.794036"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
